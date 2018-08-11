@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Exaccta Android</string>
+    <string name="title_activity_maps">Map</string>
 </resources>
